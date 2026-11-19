@@ -1,0 +1,12 @@
+streamlit
+streamlit-lottie
+plotly
+pandas
+numpy
+requests
+pillow
+python-docx
+pdfplumber
+reportlab
+python-dotenv
+google-generativeai
